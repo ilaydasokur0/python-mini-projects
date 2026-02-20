@@ -1,0 +1,143 @@
+{
+    "users": [
+        {
+            "username": "ilaydasokur0",
+            "password": "12345",
+            "borrowed_books": []
+        },
+        {
+            "username": "keremertas",
+            "password": "1616",
+            "borrowed_books": [
+                {
+                    "Name": "1984",
+                    "Author": "George Orwell",
+                    "Borrowed Date": "2026-02-11T18:12:42.499462",
+                    "Return Date": "2026-03-13T18:12:42.499462"
+                }
+            ]
+        }
+    ],
+    "books": [
+        {
+            "title": "A Tale of Two Cities",
+            "author": "Charles Dickens"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee"
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald"
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen"
+        },
+        {
+            "title": "Moby Dick",
+            "author": "Herman Melville"
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger"
+        },
+        {
+            "title": "Brave New World",
+            "author": "Aldous Huxley"
+        },
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien"
+        },
+        {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury"
+        },
+        {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho"
+        },
+        {
+            "title": "Animal Farm",
+            "author": "George Orwell"
+        },
+        {
+            "title": "The Little Prince",
+            "author": "Antoine de Saint-Exup\u00e9ry"
+        },
+        {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling"
+        },
+        {
+            "title": "Dune",
+            "author": "Frank Herbert"
+        },
+        {
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky"
+        },
+        {
+            "title": "The Brothers Karamazov",
+            "author": "Fyodor Dostoevsky"
+        },
+        {
+            "title": "Les Mis\u00e9rables",
+            "author": "Victor Hugo"
+        },
+        {
+            "title": "Madonna in a Fur Coat",
+            "author": "Sabahattin Ali"
+        },
+        {
+            "title": "The Time Regulation Institute",
+            "author": "Ahmet Hamdi Tanpinar"
+        },
+        {
+            "title": "The Stranger",
+            "author": "Albert Camus"
+        },
+        {
+            "title": "The Metamorphosis",
+            "author": "Franz Kafka"
+        },
+        {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien"
+        },
+        {
+            "title": "Anna Karenina",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "title": "Ulysses",
+            "author": "James Joyce"
+        },
+        {
+            "title": "The Old Man and the Sea",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel Garc\u00eda M\u00e1rquez"
+        },
+        {
+            "title": "Don Quixote",
+            "author": "Miguel de Cervantes"
+        },
+        {
+            "title": "War and Peace",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "title": "The Divine Comedy",
+            "author": "Dante Alighieri"
+        },
+        {
+            "title": "The Odyssey",
+            "author": "Homer"
+        }
+    ]
+}
