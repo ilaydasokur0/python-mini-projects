@@ -43,4 +43,22 @@ This project helped me understand how to design and implement a complete, functi
 
 ---
 
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+
+   git clone https://github.com/ilaydasokur0/python-mini-projects.git
+
+2. Navigate into the project folder:
+
+   cd python-mini-projects/library_system
+
+3. Run the application:
+
+   python library.py
+
+The application runs in the terminal and saves data locally in a JSON file.
+
+---
+
 More projects will be added as I continue developing my skills in Python.
