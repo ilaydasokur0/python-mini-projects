@@ -1,0 +1,12 @@
+# Database
+data/job_tracker.db
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
