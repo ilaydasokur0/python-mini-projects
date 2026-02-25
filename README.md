@@ -1,64 +1,87 @@
 # 🐍 Python Mini Projects
 
-Hello! I am a **Mathematical Engineering student** currently improving my programming skills through hands-on Python projects.
+Hello! I am a Mathematical Engineering student working on building a solid foundation in Python and software development.
 
-This repository contains a collection of **mini projects developed during my Python learning journey**.  
-Each project is designed to strengthen my understanding of core programming concepts and practical software development.
+This repository contains small-scale projects developed during my learning journey.  
+The projects are intentionally simple — my goal is to deeply understand fundamentals before moving to more complex systems.
 
-My objective is to build a strong foundation in Python by working on real-world inspired applications and continuously improving my coding practices.
+I prioritize writing clean, structured, and maintainable code.
 
 ---
 
-## 📌 Project 1: Library Management System
+## 🎯 Learning Focus
+
+- Strengthening Python fundamentals  
+- Object-Oriented Programming (OOP)  
+- Modular and maintainable project structures  
+- File systems and databases  
+- Basic UI development  
+- Version control with Git & GitHub  
+- Designing software inspired by real-world use cases  
+
+More projects will be added and existing ones will continue to evolve.
+
+---
+
+# 📌 Projects
+
+## 1) Library Management System (CLI)
 
 A command-line based library management system developed using Python.
 
-This application provides the following features:
-
+### Features
 - User registration and authentication  
-- Borrowing up to three books at a time  
+- Borrowing up to three books  
 - Returning borrowed books  
-- Donating new books to the library  
-- Displaying available and borrowed books  
-- Persistent data storage using JSON  
+- Donating new books  
+- Viewing available and borrowed books  
+- Persistent local storage using JSON  
 
-All user and book information is saved locally and automatically loaded when the program starts.
+All user and book data is stored locally and automatically loaded when the program starts.
 
----
+### What I Learned
+- Object-Oriented Programming (OOP) with Python classes  
+- Designing data models (User, Book)  
+- File handling and JSON-based persistence  
+- Date and time operations using `datetime`  
+- Input validation  
+- Program modularization  
+- Code readability and maintainability  
+- Basic Git workflow  
 
-## 🚀 What I Learned from This Project
+### ▶️ How to Run
 
-Through this project, I gained practical experience in:
+```bash
+cd library_system
+python library.py
+```
 
-- Object-Oriented Programming (OOP) using Python classes  
-- Designing and managing data models (`User`, `Book`)  
-- File handling and persistent storage with JSON  
-- Date and time operations using the `datetime` module  
-- Input validation and reusable helper functions  
-- Structuring programs using modular functions  
-- Improving code readability and maintainability  
-- Version control using Git and GitHub  
+## 2) Job Tracker (Streamlit + SQLite)
 
-This project helped me understand how to design and implement a complete, functional application from scratch.
+A simple job application tracker built with Python, SQLite, and Streamlit.
 
----
+This project introduces relational database design and a basic web interface.
 
-## ▶️ How to Run the Project
+### Features
+- Add job applications  
+- Track application status  
+- Store metadata (link, notes, date)  
+- Automatic skill extraction from job descriptions  
+- Display most frequently requested skills  
+- Interactive Streamlit interface  
 
-1. Clone the repository:
+### What I Learned
+- Working with SQLite and relational database design  
+- Table relationships and foreign keys  
+- Writing SQL queries  
+- Layered project architecture  
+- Basic text processing with regular expressions  
+- Building a minimal web UI with Streamlit  
+- Connecting backend logic to a frontend interface  
 
-   git clone https://github.com/ilaydasokur0/python-mini-projects.git
+### ▶️ How to Run
 
-2. Navigate into the project folder:
-
-   cd python-mini-projects/library_system
-
-3. Run the application:
-
-   python library.py
-
-The application runs in the terminal and saves data locally in a JSON file.
-
----
-
-More projects will be added as I continue developing my skills in Python.
+```bash
+cd job_tracker
+pip install -r requirements.txt
+streamlit run streamlit_app.py
