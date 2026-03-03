@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .vscode/
+library.py
+library_data.json
+data/
