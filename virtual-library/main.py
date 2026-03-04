@@ -79,7 +79,7 @@ def main():
             break
 
     if user is None:
-        # Şimdilik password hash vs. yok; direkt string veriyoruz
+        # Şimdilik password hash yok
         user = service.create_user(username=username, password_hash="dev")
         print(f"Yeni kullanıcı oluşturuldu: {user.username} ({user.id})")
     else:
