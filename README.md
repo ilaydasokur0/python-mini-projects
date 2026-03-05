@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects
+# 🐍 Python Practice Projects
 
 Hello! I am a Mathematical Engineering student building a strong foundation in Python and software development.
 
