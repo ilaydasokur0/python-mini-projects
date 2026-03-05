@@ -1,0 +1,12 @@
+{
+  "books": [],
+  "users": [
+    {
+      "id": "527a68cd-f1fb-4778-b9a0-90d427ea582a",
+      "username": "ilaydasokur0",
+      "password_hash": "dev"
+    }
+  ],
+  "entries": [],
+  "reviews": []
+}
